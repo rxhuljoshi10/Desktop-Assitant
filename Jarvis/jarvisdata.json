@@ -1,0 +1,24 @@
+{
+    "botName": "jarvis",
+    "voice": 0,
+    "speech_rate": 220,
+    "recog_lang": "es",
+    "language": "hi",
+    "input_method": "mic",
+    "checkRoutine": true,
+    "fileName": "c:\\Users\\joshi\\Documents\\Programs\\Python\\Jarvis\\Assistance1.8.py",
+    "userName": "",
+    "routines": {
+        "14:50": "Sir, its your lunch time..!!",
+        "17:55": "Sir, its your workout time..!!",
+        "20:50": "It's your dinner time sir..!!",
+        "21:55": "Time for you to go to bed sir..!!"
+    },
+    "reminders": {
+        "1": "module install program",
+        "6": "change language and change voice",
+        "7": "threading to takecmnd",
+        "8": "temperature"
+    },
+    "widget": "displayOnScreen"
+}
