@@ -1,0 +1,50 @@
+{
+    "BotsPathFolder" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\Jarvis\\path.json",
+    "data file" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\Jarvis\\jarvisdata.json",
+    "gallery" : "C:\\Users\\joshi\\Pictures",
+    "notepad" : "notepad.exe",
+    "downloads" : "C:\\Users\\joshi\\Downloads",
+    "songs" : "C:\\Users\\joshi\\Music",
+    "movies" : "C:\\Movies",
+    "wallpapers" : "C:\\Users\\joshi\\Pictures\\Wallpapers",
+    "camera" : "C:\\Users\\joshi\\Camera",
+    "programs" : "C:\\Users\\joshi\\Documents\\Programs",
+    "screenshots" : "C:\\Users\\joshi\\Pictures\\Screenshots",
+    "tasksfolder" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\Jarvis\\Bot Commands.txt",
+    "cmd" : "C:\\Users\\joshi\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt",
+    "python" : "C:\\Python310\\Scripts",
+
+    "my_programs" : {
+        "play_songs" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\PlaySongs.py",
+        "stop_watch" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\stopwatch.py",
+        "calculator" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\Calculator\\Calculator.py",
+        "soundRecorder" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\AudioRecorder\\AudioRecorder.py"
+    },
+
+    "apps":{
+        "instagram" : "C:\\Users\\joshi\\Instagram.lnk",
+        "telegram" : "C:\\Users\\joshi\\Telegram Desktop.lnk",
+        "whatsapp" : "C:\\Users\\joshi\\Whatsapp.lnk",
+        "netflix" : "C:\\Users\\joshi\\Netflix.lnk",
+        "spotify" : "C:\\Users\\joshi\\Spotify.lnk"
+    },
+    
+    "games": {
+        "snake" : "C:\\Users\\joshi\\Documents\\Programs\\Python\\snake game\\snakegame.py",
+        "chess" : "https://www.chess.com/play/online"
+    },
+
+    "web_applications":{
+        "gmail" : "https://www.gmail.com/" ,
+        "google drive" : "https://drive.google.com/drive/my-drive",
+        "google docs" : "https://docs.google.com/document/u/0/",
+        "google" : "https://www.google.com/",
+        "youtube" : "https://www.youtube.com/",
+        "typing application" : "https://www.monkeytype.com/",
+        "harry channel" : "https://www.youtube.com/@CodeWithHarry/playlists",
+        "learn" : "https://www.w3schools.com/",
+        "school" : "https://www.w3schools.com/",
+        "chat gpt" : "https://chat.openai.com/chat",
+        "github" : "https://github.com/rxhuljoshi10?tab=repositories"
+    }
+}
